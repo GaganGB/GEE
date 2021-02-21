@@ -98,6 +98,8 @@ opacitySlider.onSlide(function(value) {
   });
 });
 
+
+
 var viewPanel = ui.Panel([
   ui.Label('Opacity Slider', {'font-size': '24px'}), opacitySlider
 ]);
